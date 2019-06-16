@@ -15,10 +15,10 @@ exports.post = (req, res, next) => {
 
 exports.put = (req, res, next) => {
     let id = req.params.id;
-    res.status(204).send(`Carrinho de compra alterado com sucesso! ${id}`);
+    res.status(200).send(`Carrinho de compra alterado com sucesso! ${id}`);
 };
 
 exports.delete = (req, res, next) => {
     let id = req.params.id;
-    res.status(204).send(`Carrinho de compra removido com sucesso! ${id}`);
+    res.status(200).send(`Carrinho de compra removido com sucesso! ${id}`);
 };
