@@ -1,0 +1,14 @@
+C:\Users\beto\Dev\API\estudoDirigido4\Gateway\bin\Debug\netcoreapp2.2\Gateway.deps.json
+C:\Users\beto\Dev\API\estudoDirigido4\Gateway\bin\Debug\netcoreapp2.2\Gateway.runtimeconfig.json
+C:\Users\beto\Dev\API\estudoDirigido4\Gateway\bin\Debug\netcoreapp2.2\Gateway.runtimeconfig.dev.json
+C:\Users\beto\Dev\API\estudoDirigido4\Gateway\bin\Debug\netcoreapp2.2\Gateway.dll
+C:\Users\beto\Dev\API\estudoDirigido4\Gateway\bin\Debug\netcoreapp2.2\Gateway.pdb
+C:\Users\beto\Dev\API\estudoDirigido4\Gateway\obj\Debug\netcoreapp2.2\Gateway.csprojAssemblyReference.cache
+C:\Users\beto\Dev\API\estudoDirigido4\Gateway\obj\Debug\netcoreapp2.2\Gateway.csproj.CoreCompileInputs.cache
+C:\Users\beto\Dev\API\estudoDirigido4\Gateway\obj\Debug\netcoreapp2.2\Gateway.RazorAssemblyInfo.cache
+C:\Users\beto\Dev\API\estudoDirigido4\Gateway\obj\Debug\netcoreapp2.2\Gateway.RazorAssemblyInfo.cs
+C:\Users\beto\Dev\API\estudoDirigido4\Gateway\obj\Debug\netcoreapp2.2\Gateway.AssemblyInfoInputs.cache
+C:\Users\beto\Dev\API\estudoDirigido4\Gateway\obj\Debug\netcoreapp2.2\Gateway.AssemblyInfo.cs
+C:\Users\beto\Dev\API\estudoDirigido4\Gateway\obj\Debug\netcoreapp2.2\Gateway.RazorTargetAssemblyInfo.cache
+C:\Users\beto\Dev\API\estudoDirigido4\Gateway\obj\Debug\netcoreapp2.2\Gateway.dll
+C:\Users\beto\Dev\API\estudoDirigido4\Gateway\obj\Debug\netcoreapp2.2\Gateway.pdb

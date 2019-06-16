@@ -1,0 +1,78 @@
+{
+  "ReRoutes": [
+    {
+      "DownstreamPathTemplate": "/",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "127.0.0.1",
+          "Port": 3000
+        }
+      ],
+      "UpstreamPathTemplate": "/pedido/",
+      "UpstreamHttpMethod": [ "Post", "Put", "Delete", "Options" ]
+    },
+    {
+      "DownstreamPathTemplate": "/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "127.0.0.1",
+          "Port": 3000
+        }
+      ],
+      "UpstreamPathTemplate": "/pedido/{everything}",
+      "UpstreamHttpMethod": [ "Post", "Put", "Delete", "Options" ]
+    },
+    {
+      "DownstreamPathTemplate": "/",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "127.0.0.1",
+          "Port": 3002
+        }
+      ],
+      "UpstreamPathTemplate": "/produto/",
+      "UpstreamHttpMethod": [ "Post", "Put", "Delete", "Options" ]
+    },
+    {
+      "DownstreamPathTemplate": "/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "127.0.0.1",
+          "Port": 3002
+        }
+      ],
+      "UpstreamPathTemplate": "/produto/{everything}",
+      "UpstreamHttpMethod": [ "Post", "Put", "Delete", "Options" ]
+    },
+    
+    {
+      "DownstreamPathTemplate": "/",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "127.0.0.1",
+          "Port": 3003
+        }
+      ],
+      "UpstreamPathTemplate": "/carrinho/",
+      "UpstreamHttpMethod": [ "Post", "Put", "Delete", "Options" ]
+    },
+    {
+      "DownstreamPathTemplate": "/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "127.0.0.1",
+          "Port": 3003
+        }
+      ],
+      "UpstreamPathTemplate": "/carrinho/{everything}",
+      "UpstreamHttpMethod": [ "Post", "Put", "Delete", "Options" ]
+    }
+  ],
+  "GlobalConfiguration": { }
+}
