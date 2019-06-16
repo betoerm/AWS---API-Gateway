@@ -13,7 +13,7 @@
       "UpstreamHttpMethod": [ "Post", "Put", "Delete", "Options" ]
     },
     {
-      "DownstreamPathTemplate": "/{everything}",
+      "DownstreamPathTemplate": "/pedido/{everything}",
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
