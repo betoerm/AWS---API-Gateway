@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\beto\\Dev\\API\\estudoDirigido4\\Gateway\\Gateway.csproj": {}
+    "/home/mendes/Documents/IEC/AWS/AWS-Atividade-42/AWS---API-Gateway/Gateway/Gateway.csproj": {}
   },
   "projects": {
-    "C:\\Users\\beto\\Dev\\API\\estudoDirigido4\\Gateway\\Gateway.csproj": {
+    "/home/mendes/Documents/IEC/AWS/AWS-Atividade-42/AWS---API-Gateway/Gateway/Gateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\beto\\Dev\\API\\estudoDirigido4\\Gateway\\Gateway.csproj",
+        "projectUniqueName": "/home/mendes/Documents/IEC/AWS/AWS-Atividade-42/AWS---API-Gateway/Gateway/Gateway.csproj",
         "projectName": "Gateway",
-        "projectPath": "C:\\Users\\beto\\Dev\\API\\estudoDirigido4\\Gateway\\Gateway.csproj",
-        "packagesPath": "C:\\Users\\beto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\beto\\Dev\\API\\estudoDirigido4\\Gateway\\obj\\",
+        "projectPath": "/home/mendes/Documents/IEC/AWS/AWS-Atividade-42/AWS---API-Gateway/Gateway/Gateway.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/home/mendes/Documents/IEC/AWS/AWS-Atividade-42/AWS---API-Gateway/Gateway/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\beto\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/root/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
