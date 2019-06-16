@@ -25,7 +25,7 @@
       "UpstreamHttpMethod": [ "Post", "Put", "Delete", "Options" ]
     },
     {
-      "DownstreamPathTemplate": "/",
+      "DownstreamPathTemplate": "/produto/",
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
@@ -37,7 +37,7 @@
       "UpstreamHttpMethod": [ "Post", "Put", "Delete", "Options" ]
     },
     {
-      "DownstreamPathTemplate": "/{everything}",
+      "DownstreamPathTemplate": "/produto/{everything}",
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
@@ -50,7 +50,7 @@
     },
     
     {
-      "DownstreamPathTemplate": "/",
+      "DownstreamPathTemplate": "/carrinho/",
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
@@ -62,7 +62,7 @@
       "UpstreamHttpMethod": [ "Post", "Put", "Delete", "Options" ]
     },
     {
-      "DownstreamPathTemplate": "/{everything}",
+      "DownstreamPathTemplate": "/carrinho/{everything}",
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
